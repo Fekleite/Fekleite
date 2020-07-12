@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/fcleite19/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/5573982160461/" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
   <a href="mailto:dev.fernandaleite@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-D54B3D?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
