@@ -22,15 +22,15 @@ Meu nome é Fernanda Caroline Leite, tenho 19 anos e moro em Minas Gerais. Comec
 
 <h3> 🤓 Quais são meus conhecimentos? </h3>
 
-Conhecimento | Nível              |                   |
--------------|--------------------|------------------------------|
-|JavaScript  |💡💡💡💡💡💡💡💡▪️▪️| ES6+, Arrays, Objetos, Classes, Funções|
-|HTML & CSS  |💡💡💡💡💡💡💡💡💡▪️| HTML5, Media Queries, Pseudo-classes, Keyframes|
-|ReactJS     |💡💡💡💡💡💡▪️▪️▪️▪️| Components, Hooks, Router, Styled Components|
-|NodeJS      |💡💡💡💡💡▪️▪️▪️▪️▪️| Axios, Fetch, Express|
-|SQL         |💡💡💡💡💡💡▪️▪️▪️▪️| Queries, Joins, Index, Postgresql|
-|Git         |💡💡💡💡💡▪️▪️▪️▪️▪️| Commits, Push, Pull, Remote, Revert|
-|UX & UI     |💡💡💡💡▪️▪️▪️▪️▪️▪️| Wireframes, Protótipos, Testes de usabilidade|
+|Assunto     | Nível              | Exemplos                     |
+|------------|--------------------|------------------------------|
+|JavaScript  |💡💡💡💡💡💡💡💡▪️▪️| ES6+, Arrays, Objetos, Classes, Funções, etc.|
+|HTML & CSS  |💡💡💡💡💡💡💡💡💡▪️| HTML5, Media Queries, Pseudo-classes, Keyframes, etc.|
+|ReactJS     |💡💡💡💡💡💡▪️▪️▪️▪️| Components, Hooks, Router, Styled Components, etc.|
+|NodeJS      |💡💡💡💡💡▪️▪️▪️▪️▪️| Axios, Fetch, Express, etc.|
+|SQL         |💡💡💡💡💡💡▪️▪️▪️▪️| Queries, Joins, Index, Postgresql, etc.|
+|Git         |💡💡💡💡💡▪️▪️▪️▪️▪️| Commits, Push, Pull, Remote, Revert, etc.|
+|UX & UI     |💡💡💡💡▪️▪️▪️▪️▪️▪️| Wireframes, Protótipos, Testes de usabilidade, etc.|
 
 <h3> 💁🏻 Como posso te ajudar? </h3>
 
