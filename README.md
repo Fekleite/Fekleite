@@ -25,23 +25,23 @@
 <br>
 
 <p align="center">
-<img src="./assets/javascript.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/javascript.svg" width="48"/>
 
-<img src="assets/html5.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/html5.svg" width="48"/>
 
 <img src="https://github.com/Fekleite/Fekleite/blob/master/assets/css3.svg" width="48"/>
 
-<img src="assets/sass.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/sass.svg" width="48"/>
 
-<img src="assets/react.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/react.svg" width="48"/>
 
-<img src="assets/node-dot-js.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/node-dot-js.svg" width="48"/>
 
-<img src="assets/postgresql.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/postgresql.svg" width="48"/>
 
-<img src="assets/git.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/git.svg" width="48"/>
 
-<img src="assets/figma.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/figma.svg" width="48"/>
 </p>
 
 <br>
