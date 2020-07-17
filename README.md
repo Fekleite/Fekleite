@@ -18,7 +18,7 @@
 
 <p align="justify">Se eu tivesse que me definir em uma palavra, ela seria: dedicada. Desde quando comecei minha saga nos estudos de programação sempre me dediquei ao máximo para aprender todos os conceitos e tecnologias que me foram propostos, comecei com C++ depois passei por C, Java, PHP, HTML, CSS, JavaScript, SQL e cheguei na stack que venho estudando hoje React + Node.</p>
 
-<p align="justify">Aprender exige esforço, dedicação, comprometimento e o mais importante VONTADE, e o que não falta em é vontade. O caminho não foi fácil (nunca é), mas é muito gratificante quando se faz aquilo que ama. Poder desenvolver projetos completos e ajudar amigos nessa jornada faz todo esforço valer a pena. </p>
+<p align="justify">Aprender exige esforço, dedicação, comprometimento e o mais importante VONTADE, e o que não falta em mim é vontade. O caminho não foi fácil (nunca é), mas é muito gratificante quando se faz aquilo que ama. Poder desenvolver projetos completos e ajudar amigos nessa jornada faz todo esforço valer a pena. </p>
 
 <h3> 🤓 Quais são meus conhecimentos? </h3>
 
