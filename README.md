@@ -45,17 +45,55 @@
 </p>
 
 <br>
-
-| Tecnologia | Nível de conhecimento | Tempo de experiência |
-| -----------|-----------------------|----------------------|
-| JavaScript | 💡💡💡💡💡💡💡💡     | 1 - 2 anos |
-| HTML & CSS | 💡💡💡💡💡💡💡💡💡   | 2 - 3 anos|
-| Sass       | 💡💡💡               | 0 - 1 ano|
-| ReactJS    | 💡💡💡💡💡💡         | 1 - 2 anos|
-| NodeJS     | 💡💡💡💡💡           | 0 - 1 ano|
-| SQL        | 💡💡💡💡💡💡         | 1 - 2 anos|
-| Git        | 💡💡💡💡💡           | 0 - 1 ano|
-| UX & UI    | 💡💡💡💡             | 0 - 1 ano|
+<table align="center">
+	<tbody>
+		<tr>
+			<td> Tecnologia</td>
+			<td> Nível de conhecimento</td>
+			<td> Tempo de experiência</td>
+		</tr>
+		<tr>
+			<td> JavaScript</td>
+			<td> 💡💡💡💡💡💡💡💡</td>
+			<td> 1 - 2 anos</td>
+		</tr>
+		<tr>
+			<td> HTML & CSS</td>
+			<td> 💡💡💡💡💡💡💡💡💡</td>
+			<td> 2 - 3 anos</td>
+		</tr>
+		<tr>
+			<td> Sass</td>
+			<td> 💡💡💡</td>
+			<td> 0 - 1 ano</td>
+		</tr>
+		<tr>
+			<td> ReactJS</td>
+			<td> 💡💡💡💡💡💡</td>
+			<td> 1 - 2 anos</td>
+		</tr>
+		<tr>
+			<td> NodeJS</td>
+			<td> 💡💡💡💡💡</td>
+			<td> 0 - 1 ano</td>
+		</tr>
+		<tr>
+			<td> SQL</td>
+			<td> 💡💡💡💡💡💡</td>
+			<td> 1 - 2 anos</td>
+		</tr>
+		<tr>
+			<td> Git</td>
+			<td> 💡💡💡💡💡</td>
+			<td> 0 - 1 ano</td>
+		</tr>
+		<tr>
+			<td> UX & UI</td>
+			<td> 💡💡💡💡</td>
+			<td> 0 - 1 ano</td>
+		</tr>
+	</tbody>
+</table>
 
 <h3> 💁🏻 Como posso te ajudar? </h3>
 
