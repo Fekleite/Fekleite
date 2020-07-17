@@ -25,11 +25,13 @@
 <br>
 
 <p align="center">
+<img src="assets/javascript.svg" width="48"/>
+
 <img src="assets/html5.svg" width="48"/>
 
 <img src="assets/css3.svg" width="48"/>
 
-<img src="assets/javascript.svg" width="48"/>
+<img src="assets/sass.svg" width="48"/>
 
 <img src="assets/react.svg" width="48"/>
 
@@ -48,6 +50,7 @@
 | ---------- | --------- |
 | JavaScript | 💡💡💡💡💡💡💡💡  |
 | HTML & CSS | 💡💡💡💡💡💡💡💡💡 |
+| Sass       | 💡💡💡       |
 | ReactJS    | 💡💡💡💡💡💡    |
 | NodeJS     | 💡💡💡💡💡     |
 | SQL        | 💡💡💡💡💡💡    |
