@@ -29,7 +29,7 @@
 
 <img src="assets/html5.svg" width="48"/>
 
-<img src="assets/css3.svg" width="48"/>
+<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/css3.svg" width="48"/>
 
 <img src="assets/sass.svg" width="48"/>
 
