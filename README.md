@@ -54,43 +54,43 @@
 		</tr>
 		<tr>
 			<td> JavaScript</td>
-			<td> 💡💡💡💡💡💡💡💡</td>
-			<td> 1 - 2 anos</td>
+			<td> Intermediário</td>
+			
 		</tr>
 		<tr>
 			<td> HTML & CSS</td>
-			<td> 💡💡💡💡💡💡💡💡💡</td>
-			<td> 2 - 3 anos</td>
+			<td> Avançado</td>
+			
 		</tr>
 		<tr>
 			<td> Sass</td>
-			<td> 💡💡💡</td>
-			<td> 0 - 1 ano</td>
+			<td> Básico</td>
+			
 		</tr>
 		<tr>
 			<td> ReactJS</td>
-			<td> 💡💡💡💡💡💡</td>
-			<td> 1 - 2 anos</td>
+			<td> Intermediário</td>
+			
 		</tr>
 		<tr>
 			<td> NodeJS</td>
-			<td> 💡💡💡💡💡</td>
-			<td> 0 - 1 ano</td>
+			<td> Intermediário</td>
+			
 		</tr>
 		<tr>
 			<td> SQL</td>
-			<td> 💡💡💡💡💡💡</td>
-			<td> 1 - 2 anos</td>
+			<td> Intermediário</td>
+			
 		</tr>
 		<tr>
 			<td> Git</td>
-			<td> 💡💡💡💡💡</td>
-			<td> 0 - 1 ano</td>
+			<td> Básico</td>
+			
 		</tr>
 		<tr>
 			<td> UX & UI</td>
-			<td> 💡💡💡💡</td>
-			<td> 0 - 1 ano</td>
+			<td> Básico</td>
+		
 		</tr>
 	</tbody>
 </table>
