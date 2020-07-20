@@ -50,47 +50,38 @@
 		<tr>
 			<td> Tecnologia</td>
 			<td> Nível de conhecimento</td>
-			<td> Tempo de experiência</td>
 		</tr>
 		<tr>
 			<td> JavaScript</td>
 			<td> Intermediário</td>
-			
 		</tr>
 		<tr>
 			<td> HTML & CSS</td>
 			<td> Avançado</td>
-			
 		</tr>
 		<tr>
 			<td> Sass</td>
 			<td> Básico</td>
-			
 		</tr>
 		<tr>
 			<td> ReactJS</td>
 			<td> Intermediário</td>
-			
 		</tr>
 		<tr>
 			<td> NodeJS</td>
 			<td> Intermediário</td>
-			
 		</tr>
 		<tr>
 			<td> SQL</td>
 			<td> Intermediário</td>
-			
 		</tr>
 		<tr>
 			<td> Git</td>
 			<td> Básico</td>
-			
 		</tr>
 		<tr>
 			<td> UX & UI</td>
 			<td> Básico</td>
-		
 		</tr>
 	</tbody>
 </table>
