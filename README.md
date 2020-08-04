@@ -14,37 +14,12 @@
 
 <h3> 👩‍💻 Quem sou eu? </h3>
 
-<p align="justify">Meu nome é Fernanda Caroline Leite, tenho 19 anos e moro em Minas Gerais. Comecei minha graduação em Ciência da Computação na Universidade Estadual de Santa Cruz, mas estou no processo de tranferência em outra faculdade para o curso de Análise e Desenvolvimento de Sitemas na modalidade EAD devido à uma mudança de estado. Atualmente estou no meio do Bootcamp LaunchBase da Rocketseat, tem sido uma experiência fantástica e tenho aprendido bastante.</p>
+<p align="justify">Meu nome é Fernanda Caroline Leite, tenho 19 anos e moro no interior de Minas Gerais. Comecei minha graduação em Análise e Desenvolvimento de Sistemas agora no meio de 2020, depois de cursar 2 periodos de Ciência da Computação. Atualmente trabalho em um escritório de contabilidade da minha cidade e divido meu tempo entre trabalhar e estudar. Minha paixão desde que me formei como técnica em informática é pelo desenvolvimento web e é nela que venho focando nos últimos tempos, pra que eu possa estar o mais preparada possível para esse mercado de trabalho.</p>
 
-<p align="justify">Se eu tivesse que me definir em uma palavra, ela seria: dedicada. Desde quando comecei minha saga nos estudos de programação sempre me dediquei ao máximo para aprender todos os conceitos e tecnologias que me foram propostos, comecei com C++ depois passei por C, Java, PHP, HTML, CSS, JavaScript, SQL e cheguei na stack que venho estudando hoje React + Node.</p>
-
-<p align="justify">Aprender exige esforço, dedicação, comprometimento e o mais importante VONTADE, e o que não falta em mim é vontade. O caminho não foi fácil (nunca é), mas é muito gratificante quando se faz aquilo que ama. Poder desenvolver projetos completos e ajudar amigos nessa jornada faz todo esforço valer a pena. </p>
+<p align="justify">Meus estudos estão mais focados na stack ReactJS, Node e React Native, venho aprendendo bastante e inclusive estou participando de um dos bootcamps da Rocketseat. Tenho tentado focar meus estudos no Typescript também, que é uma tecnologia que vem crescendo muito, além é claro de estudar um pouco sobre UX/UI que é uma área que gosto bastante também.</p>
 
 <h3> 🤓 Quais são meus conhecimentos? </h3>
 
-<br>
-
-<p align="center">
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/javascript.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/html5.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/css3.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/sass.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/react.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/node-dot-js.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/postgresql.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/git.svg" width="48"/>
-
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/figma.svg" width="48"/>
-</p>
-
-<br>
 <table align="center">
 	<tbody>
 		<tr>
@@ -58,10 +33,6 @@
 		<tr>
 			<td> HTML & CSS</td>
 			<td> Avançado</td>
-		</tr>
-		<tr>
-			<td> Sass</td>
-			<td> Básico</td>
 		</tr>
 		<tr>
 			<td> ReactJS</td>
@@ -80,12 +51,13 @@
 			<td> Básico</td>
 		</tr>
 		<tr>
-			<td> UX & UI</td>
+			<td> TypeScript</td>
 			<td> Básico</td>
-		</tr>
+		</tr
 	</tbody>
 </table>
 
 <h3> 💁🏻 Como posso te ajudar? </h3>
 
-Me chame em qualquer rede social, estou sempre disponível para ajudar e compartilhar conhecimento. Será um prazer! ❤️
+Se estiver precisando de ajuda com desenvolvimento web (back ou front end), lógica de programação ou qualquer coisa relacionada ao mundo do desenvolvimento pode me chamar que farei o possível pra te ajudar e terei o maior prazer em fazer isso! Me mande mensagem no Linkedin ou no email que estarei disponível.
+
