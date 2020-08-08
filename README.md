@@ -18,8 +18,6 @@
 
 <p align="justify">Meus estudos estão mais focados na stack ReactJS, Node e React Native, venho aprendendo bastante e inclusive estou participando de um dos bootcamps da Rocketseat. Tenho estudado um pouco de Typescript e UX/UI que também é uma área pela qual me interesso bastante.</p>
 
-<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dark&show_icons=true" />
-
 <h3> 🤓 Quais são meus conhecimentos? </h3>
 
 <table align="center">
