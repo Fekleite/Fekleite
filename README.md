@@ -14,7 +14,7 @@
 
 <h3> 👩‍💻 Quem sou eu? </h3>
 
-<p align="justify">Meu nome é Fernanda Caroline Leite, tenho 19 anos e moro no interior de Minas Gerais. Comecei minha graduação em Análise e Desenvolvimento de Sistemas agora no meio de 2020, depois de cursar 2 periodos de Ciência da Computação. Atualmente trabalho em um escritório de contabilidade da minha cidade e divido meu tempo entre trabalhar e estudar. Minha paixão desde que me formei como técnica em informática é pelo desenvolvimento web e é nela que venho focando nos últimos tempos, pra que eu possa estar o mais preparada possível para esse mercado de trabalho.</p>
+<p align="justify">Meu nome é Fernanda Caroline Leite, tenho 20 anos e moro no interior de Minas Gerais. Comecei minha graduação em Análise e Desenvolvimento de Sistemas agora no meio de 2020, depois de cursar 2 periodos de Ciência da Computação. Atualmente trabalho em um escritório de contabilidade da minha cidade e divido meu tempo entre trabalhar e estudar. Minha paixão desde que me formei como técnica em informática é pelo desenvolvimento web e é nela que venho focando nos últimos tempos, pra que eu possa estar o mais preparada possível para esse mercado de trabalho.</p>
 
 <p align="justify">Meus estudos estão mais focados na stack ReactJS, Node e React Native, venho aprendendo bastante e inclusive estou participando de um dos bootcamps da Rocketseat. Tenho estudado um pouco de Typescript e UX/UI que também é uma área pela qual me interesso bastante.</p>
 
