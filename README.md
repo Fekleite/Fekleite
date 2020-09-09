@@ -20,42 +20,18 @@
 
 <h3> 🤓 Quais são meus conhecimentos? </h3>
 
-<table align="center">
-	<tbody>
-		<tr>
-			<td> Tecnologia</td>
-			<td> Nível de conhecimento</td>
-		</tr>
-		<tr>
-			<td> JavaScript</td>
-			<td> Intermediário</td>
-		</tr>
-		<tr>
-			<td> HTML & CSS</td>
-			<td> Avançado</td>
-		</tr>
-		<tr>
-			<td> ReactJS</td>
-			<td> Intermediário</td>
-		</tr>
-		<tr>
-			<td> NodeJS</td>
-			<td> Intermediário</td>
-		</tr>
-		<tr>
-			<td> SQL</td>
-			<td> Intermediário</td>
-		</tr>
-		<tr>
-			<td> Git</td>
-			<td> Básico</td>
-		</tr>
-		<tr>
-			<td> TypeScript</td>
-			<td> Básico</td>
-		</tr
-	</tbody>
-</table>
+- JavaScript
+- HTML & CSS
+- ReactJS
+- NodeJS
+- SQL
+- Git
+- TypeScript
+
+![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fekleite&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3> 💁🏻 Como posso te ajudar? </h3>
 
