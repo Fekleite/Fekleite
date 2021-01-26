@@ -10,26 +10,22 @@
   </a>
 
 
-<h2> Heeey dev, seja bem vindo! 👋</h2>
+<h2> Um pouco sobre mim 👋</h2>
 
-<h3> 👩‍💻 Quem sou eu? </h3>
+<p align="justify">Desenvolvedora Front-end Júnior na Original.io e estudante de Análise e Desenvolviemnto de Sistemas.</p>
 
-<p align="justify">Meu nome é Fernanda Caroline Leite, tenho 20 anos e moro no interior de Minas Gerais. Comecei minha graduação em Análise e Desenvolvimento de Sistemas agora no meio de 2020, depois de cursar 2 periodos de Ciência da Computação. Desde que me formei como técnica em informática me apaixonei pelo desenvolvimento web e tenho focado meus estudos nos últimos tempos na área de Front end.</p>
+<h3> 🤓 Meus conhecimentos: </h3>
 
-<h3> 🤓 Quais são meus conhecimentos? </h3>
-
-- JavaScript
-- HTML & CSS
 - ReactJS
 - NodeJS
+- JavaScript
+- HTML & CSS
 - SQL
 - Git
+
+<h3> 🤓 Estou aprendendo: </h3>
+
 - TypeScript
+- React Native
 
 ![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
-
-
-<h3> 💁🏻 Como posso te ajudar? </h3>
-
-Se estiver precisando de ajuda com desenvolvimento web (back ou front end), lógica de programação ou qualquer coisa relacionada ao mundo do desenvolvimento pode me chamar que farei o possível pra te ajudar e terei o maior prazer em fazer isso! Me mande mensagem no Linkedin ou no email que estarei disponível.
-
