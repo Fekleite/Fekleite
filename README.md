@@ -12,7 +12,7 @@
 
 <h2> Um pouco sobre mim 👋</h2>
 
-<p align="justify">Desenvolvedora Front-end Júnior na Original.io e estudante de Análise e Desenvolviemnto de Sistemas.</p>
+<p align="justify">Desenvolvedora Front-end Júnior na Original.io e estudante de Análise e Desenvolvimento de Sistemas.</p>
 
 <h3> 🤓 Meus conhecimentos: </h3>
 
