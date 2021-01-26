@@ -16,10 +16,11 @@
 
 <h3> 🤓 Meus conhecimentos: </h3>
 
-- ReactJS
-- NodeJS
+- React
+- Node.js
 - JavaScript
 - HTML & CSS
+- SASS
 - SQL
 - Git
 
