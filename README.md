@@ -11,7 +11,7 @@
 
 # Fernanda Leite
 
-Apaixonada por programação, tecnologia, esportes ao livre, jogos e filmes. <br><br>
+Apaixonada por programação, tecnologia, esportes ao ar livre, jogos e filmes. <br><br>
 
 <p> 💻&nbsp; Desenvolvedora Front-end Júnior na Original.io</p>
 <p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas</p>
