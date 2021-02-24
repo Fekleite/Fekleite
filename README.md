@@ -11,11 +11,11 @@
 
 # Fernanda Leite
 
-Apaixonada por programação, tecnologia, esportes ao livre, jogos e filmes. <br>
+Apaixonada por programação, tecnologia, esportes ao livre, jogos e filmes. <br><br>
 
-<p> 💻 Desenvolvedora Front-end Júnior na Original.io</p>
-<p> 🎓 Cursando de Análise e Desenvolvimento de Sistemas</p>
-<p> 🏆 Meus conhecimentos: React, Node.js, Typescript, SASS, SQL e Git
-<p> 📚 Estou aprendendo: Next.js, Gatsby e GraphQL
+<p> 💻&nbsp; Desenvolvedora Front-end Júnior na Original.io</p>
+<p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas</p>
+<p> 🏆&nbsp; Meus conhecimentos: React, Node.js, Typescript, SASS, SQL e Git
+<p> 📚&nbsp; Estou aprendendo: Next.js, Gatsby e GraphQL
 
 ![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
