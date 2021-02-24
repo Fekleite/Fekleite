@@ -1,32 +1,21 @@
 
-  <a href="https://github.com/Fekleite" alt="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/fcleite19/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dev.fernandaleite@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-D54B3D?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/Fekleite" alt="GitHub">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fcleite19/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<a href="mailto:dev.fernandaleite@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-D54B3D?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
 
+# Fernanda Leite
 
-<h2> Um pouco sobre mim 👋</h2>
+Apaixonada por programação, tecnologia, esportes ao livre, jogos e filmes. <br>
 
-<p align="justify">Desenvolvedora Front-end Júnior na Original.io e estudante de Análise e Desenvolvimento de Sistemas.</p>
-
-<h3> 🤓 Meus conhecimentos: </h3>
-
-- React
-- Node.js
-- JavaScript
-- HTML & CSS
-- SASS
-- SQL
-- Git
-
-<h3> 🤓 Estou aprendendo: </h3>
-
-- TypeScript
-- React Native
+<p> 💻 Desenvolvedora Front-end Júnior na Original.io</p>
+<p> 🎓 Cursando de Análise e Desenvolvimento de Sistemas</p>
+<p> 🏆 Meus conhecimentos: React, Node.js, Typescript, SASS, SQL e Git
+<p> 📚 Estou aprendendo: Next.js, Gatsby e GraphQL
 
 ![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
