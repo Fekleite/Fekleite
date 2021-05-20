@@ -13,9 +13,9 @@
 
 Apaixonada por programação, tecnologia, esportes ao ar livre, jogos e filmes. <br><br>
 
-<p> 💻&nbsp; Desenvolvedora Front-end Júnior na Original.io</p>
+<p> 💻&nbsp; Desenvolvedora Front-end na Original.io</p>
 <p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas</p>
 <p> 🏆&nbsp; Meus conhecimentos: React, Node.js, Typescript, SASS, SQL e Git
-<p> 📚&nbsp; Estou aprendendo: Next.js, Gatsby e GraphQL
+<p> 📚&nbsp; Estou aprendendo: Next.js e React Native
 
 ![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
