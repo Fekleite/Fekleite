@@ -14,7 +14,7 @@
 Apaixonada por programação (desde 2016), tecnologia, viagens, esportes ao ar livre, jogos e filmes (principalmente os da MCU). <br><br>
 
 <p> 💻&nbsp; Desenvolvedora Frontend na Original.io desde 2020, trabalho com VTEX IO e legacy;</p>
-<p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, e formada como Técnica em informáticca pela Fundação de Ensino de Contagem;</p>
+<p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, e formada como Técnica em informática pela Fundação de Ensino de Contagem;</p>
 <p> 🏆&nbsp; Stack principal: ReactJS & TypeScript;
 <p> 📚&nbsp; Next, React native, SASS, Node e Git
 
