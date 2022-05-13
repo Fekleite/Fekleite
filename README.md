@@ -11,11 +11,11 @@
 
 # Fernanda Leite
 
-Apaixonada por programação, tecnologia, esportes ao ar livre, jogos e filmes. <br><br>
+Apaixonada por programação (desde 2016), tecnologia, viagens, esportes ao ar livre, jogos e filmes (principalmente os da MCU). <br><br>
 
-<p> 💻&nbsp; Desenvolvedora Front-end na Original.io</p>
-<p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas</p>
-<p> 🏆&nbsp; Meus conhecimentos: React, Node.js, Typescript, SASS, SQL e Git
-<p> 📚&nbsp; Estou aprendendo: Next.js e React Native
+<p> 💻&nbsp; Desenvolvedora Frontend na Original.io desde 2020, trabalho com VTEX IO e legacy;</p>
+<p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, e formada como Técnica em informáticca pela Fundação de Ensino de Contagem;</p>
+<p> 🏆&nbsp; Stack principal: ReactJS & TypeScript;
+<p> 📚&nbsp; Next, React native, SASS, Node e Git
 
 ![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
