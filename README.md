@@ -13,8 +13,8 @@
 
 Desenvolvedora Front-end, apaixonada por aprender e buscando ser especialista.
 
-<p> 💻&nbsp; Desenvolvedora Frontend na ioasys, atuando com React;</p>
-<p> 🎓&nbsp; Cursando de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, e formada como Técnica em informática pela Fundação de Ensino de Contagem;</p>
-<p> 🏆&nbsp; ReactJS, TypeScript, SASS, Node, Styled Components, Tailwind e Git;
+<p> 💻&nbsp; Desenvolvedora Frontend na <a href="https://ioasys.com.br/" rel="nofollow">ioasys</a>, atuando com React;</p>
+<p> 🏆&nbsp; Ferramentas favoritas: ReactJS, TypeScript e Styled Components;
+<p> 📖&nbsp; Estou aprendendo: GraphQL, Jest, React Query;
 
 ![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
