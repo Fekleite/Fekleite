@@ -11,10 +11,13 @@
 
 # Fernanda Leite
 
-Desenvolvedora Front-end, apaixonada por aprender e buscando ser especialista.
+Software developer, with 4 years of experience in front-end development and React enthusiast. Always looking for learn!
 
-<p> 💻&nbsp; Desenvolvedora Frontend na <a href="https://ioasys.com.br/" rel="nofollow">ioasys</a>, atuando com React;</p>
-<p> 🏆&nbsp; Ferramentas favoritas: ReactJS, TypeScript e Styled Components;
-<p> 📖&nbsp; Estou aprendendo: GraphQL, Jest, React Query;
+<p> 💻&nbsp; Front-end Developer at <a href="https://ioasys.com.br/" rel="nofollow">ioasys</a>;</p>
+<p> 🏆&nbsp; Favorite techs: ReactJS, TypeScript, Styled Components, Tailwind and NextJS;
+<p> 📖&nbsp; I'm learning: Unit tests and Web Sockets;
 
-![Fekleite github stats](https://github-readme-stats.vercel.app/api?username=Fekleite&theme=dracula&show_icons=true)
+## Visit my website
+
+[Fekdev](https://www.fekdev.com.br/)
+
