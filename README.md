@@ -14,8 +14,7 @@
 Software developer, with 4 years of experience in front-end development and React enthusiast. Always looking for learn!
 
 <p> 💻&nbsp; Front-end Developer at <a href="https://ioasys.com.br/" rel="nofollow">ioasys</a>;</p>
-<p> 🏆&nbsp; Favorite techs: ReactJS, TypeScript, Styled Components, Tailwind and NextJS;
-<p> 📖&nbsp; I'm learning: Unit tests and Web Sockets;
+<p> 🏆&nbsp; Favorite techs: ReactJS, TypeScript, Styled Components, Tailwind, shadcn/ui, NextJS, React Query and React Native;
 
 ## Visit my website
 
